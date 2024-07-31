@@ -1,2 +1,2 @@
 # microservice-example
-This example demonstrate the creation and use of microservice 
+This example is the demonstration of using docker container to build the microservice    
