@@ -1,4 +1,5 @@
-# microservice-example
+# Sample application to demonstrate usage of docker container to build and run microservice 
+
 This example is the demonstration of using docker container to build the microservice    
 
 Steps:
