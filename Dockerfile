@@ -15,6 +15,8 @@ EXPOSE 8080
 
 # Define environment variable
 ENV NAME=First_microservice
+ENV PORT 8080
+ENV HOST 0.0.0.0
 
 # Run app.py when the container launches
-CMD ["python", "app.py", "--", "--host", "0.0.0.0",  "--port", "8080"]
+CMD ["python", "app.py"]
